@@ -69,3 +69,4 @@ obj-$(CONFIG_KINECTICS_XR_NORDIC) += kxrctrl/
 obj-y				+= utag/
 obj-y				+= mmi_sys_temp/
 obj-y				+= sx937x_multi/
+obj-y				+= sx937x/
