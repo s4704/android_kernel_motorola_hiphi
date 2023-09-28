@@ -70,3 +70,4 @@ obj-y				+= utag/
 obj-y				+= mmi_sys_temp/
 obj-y				+= sx937x_multi/
 obj-y				+= sx937x/
+obj-y				+= hall/
