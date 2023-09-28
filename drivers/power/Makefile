@@ -5,3 +5,4 @@ obj-y				+= qpnp_adaptive_charge/
 obj-y				+= qti_glink_charger/
 obj-y				+= mmi_charger/
 obj-y				+= bm_adsp_ulog/
+obj-y				+= smart_pen_charger/
