@@ -173,5 +173,6 @@ obj-$(CONFIG_REGULATOR_QTI_OCP_NOTIFIER) += qti-ocp-notifier.o
 
 obj-y += wl2868c/
 obj-y += slg5bm43670/
+obj-$(CONFIG_REGULATOR_SLG51000) += slg51000/
 
 ccflags-$(CONFIG_REGULATOR_DEBUG) += -DDEBUG
